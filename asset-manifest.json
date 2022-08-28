@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hilarious-crypto/static/css/main.5b9bfee1.css",
+    "main.js": "/hilarious-crypto/static/js/main.dde3508f.js",
+    "index.html": "/hilarious-crypto/index.html",
+    "main.5b9bfee1.css.map": "/hilarious-crypto/static/css/main.5b9bfee1.css.map",
+    "main.dde3508f.js.map": "/hilarious-crypto/static/js/main.dde3508f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b9bfee1.css",
+    "static/js/main.dde3508f.js"
+  ]
+}
